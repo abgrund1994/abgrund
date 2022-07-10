@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkorigin=self.webpackChunkorigin||[]).push([[883],{429:function(n,e,u){u.r(e),u.d(e,{default:function(){return t}});var r=u(7294);function t(){return r.createElement("h1",null,"404")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-338dab03c450db143459.js.map

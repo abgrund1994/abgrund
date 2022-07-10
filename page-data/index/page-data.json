@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/abgrund/static/fa4ce72719457b8b2775e258950f57fc/thumbnail-650-925.pbew","relativePath":"Mesmerism 1/thumbnail-650-925.pbew","name":"thumbnail-650-925"}},{"node":{"publicURL":"/abgrund/static/9190c08c7b714a4688d53ee0ee4fab67/thumbnail-650-925.pbew","relativePath":"Mesmerism 2/thumbnail-650-925.pbew","name":"thumbnail-650-925"}},{"node":{"publicURL":"/abgrund/static/55d5f8234028359652e01ee534ceb461/thumbnail-650-925.pbew","relativePath":"Mesmerism 3/thumbnail-650-925.pbew","name":"thumbnail-650-925"}},{"node":{"publicURL":"/abgrund/static/1b4ed3e1b9fdaf3375c65afe9e8c17de/thumbnail-650-926.pbew","relativePath":"Mesmerism 4/thumbnail-650-926.pbew","name":"thumbnail-650-926"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
